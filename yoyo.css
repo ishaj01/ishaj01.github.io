@@ -1,0 +1,143 @@
+
+.Home{
+    background-color:darkslategrey;
+    height:75vh;
+}
+.nav {
+    background-color:black ;
+    opacity:0.3;
+    
+    }
+ .nav ul li {
+    display:inline-block;
+ color: white;
+ opacity:1;
+
+   }
+.nav ul li a{
+    font-family: "Amatic SC", sans-serif;
+    color:white;
+    opacity:1;
+padding-right :25px;
+padding-left: 25px;
+    font-size:38px;
+}
+.nav:hover{
+    opacity:1;
+}
+.nav ul li a:hover{
+    color:black;
+    background-color:lightgray;
+    }
+.Home h1{
+    color:white;
+    align-items: center;
+    font-family:"Amatic SC", sans-serif;
+    padding-left:450px;
+    padding-top:50px;
+    font-size:100px;
+
+}
+.Home p{
+    color:white;
+    font-family: "Amatic SC", sans-serif;
+    font-size:38px;
+    margin-left:525px;
+    margin-right: 525px;
+   
+    border:white double 2px;
+
+}
+
+
+
+  
+  .menu {
+    background-color: black;
+    height:216vh;
+   position: relative;
+   top: -70px;
+  
+  }
+  
+  .menu .Menu h2 {
+    color: white;
+    font-size: 80px;
+    font-weight: lighter;
+    text-align: center;
+    font-family:"Amatic SC", sans-serif;
+    margin:0px 200px;
+
+  }
+  .menu .chart {
+    background-color: white;
+    height:175vh;
+    margin:0px 200px;
+    }
+ .chart p,h3,h4,h5,h6{
+    color: black;
+    font-size: 45px;
+    font-family:"Amatic SC", sans-serif; 
+    padding-left: 40px;
+    
+    
+ }
+ .chart title{
+    font-size: 45px;
+    font-family:"Amatic SC", sans-serif; 
+    text-align: center;
+ }
+ .about{
+     background-color:rgb(146, 67, 67);
+     height:165vh;
+     position: relative;
+   top: -130px;
+    
+ }
+ .about h1 , .contact h2{
+    color: white;
+    font-size: 80px;
+    font-weight: lighter;
+    text-align: center;
+    font-family:"Amatic SC", sans-serif;
+ }
+ .about p{
+    color: white;
+    font-size: 35px;
+    font-weight: lighter;
+   padding-left: 30px;
+    font-family:"Amatic SC", sans-serif;  
+ }
+
+
+.about img{
+    width: 95%;
+    aspect-ratio:2.4;
+    margin-left:30px;
+ 
+   
+   }
+   .contact{
+    background-color:darkslategrey;
+    height:280vh;
+    position: relative;
+    margin-top:-197px;
+ 
+   }
+.contact p{
+    color: white;
+    font-size: 35px;
+    font-weight: lighter;
+   padding-left: 30px;
+   font-family:"Amatic SC" , sans-serif;  
+ }
+ .contact .form{
+input{
+  
+}
+ }
+
+
+
+
+
